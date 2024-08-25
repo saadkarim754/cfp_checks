@@ -21,9 +21,8 @@ def prints_hello():
     
 @check50.check()
 def display_total_marks():
-    """Displays total marks awarded"""
-    print(f"Total Marks Awarded: {total_marks}/5")
-
+    """Displays total marks awarded {total_marks}"""
+    
 # Automatically display the total marks after the checks are run
 if __name__ == "__main__":
     display_total_marks()
