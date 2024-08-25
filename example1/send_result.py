@@ -1,7 +1,7 @@
 import requests
 
 def send_result():
-    url = "https://yourusername.github.io/your-repo-name/index.html"  # Replace with your GitHub Pages URL
+    url = "https://saadkarim754.github.io/submissions/"  # Replace with your GitHub Pages URL
     params = {
         "check_name": "hello world",
         "status": "pass",
