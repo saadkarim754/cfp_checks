@@ -18,7 +18,8 @@ def prints_hello():
     global total_marks
     check50.run("python3 hello.py").stdout("[Hh]ello, world!?\n", regex=True).exit(0)
     total_marks += 3  # Award 3 marks for this check
-
+    
+@check50.check()
 def display_total_marks():
     """Displays total marks awarded"""
     print(f"Total Marks Awarded: {total_marks}/5")
