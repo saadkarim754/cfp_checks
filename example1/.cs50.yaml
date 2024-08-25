@@ -4,4 +4,3 @@ check50:
       - run: python3 hello.py
         stdout: Hello, world!
         exit: 0
-        after: python3 send_result.py
