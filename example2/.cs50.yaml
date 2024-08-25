@@ -1,0 +1,7 @@
+check50:
+  checks:
+    hello world:
+      - run: gcc -o hello hello.c
+      - run: ./hello
+        stdout: Hello, world!
+        exit: 0
