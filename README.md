@@ -45,21 +45,10 @@ This repository provides the setup for implementing CS50’s automatic grading s
    - Visit [cs50.dev](https://cs50.dev) and log in using your GitHub account.
    - Authorize access to CS50 tools for seamless integration with the grading system.
 
-### 2. **Clone the Repository**
-   - Clone the repository for your course assignment using the following command:
-   
-     ```bash
-     git clone https://github.com/saadkarim754/cfp_checks.git
-     ```
-   - Navigate to the directory where your assignment is located:
-     ```bash
-     cd cfp_checks/main/hello
-     ```
-
-### 3. **Write Your Code**
+### 2. **Write Your Code**
    - Implement the assignment as specified by your instructor. Ensure that your code follows the provided guidelines for coding and file structure.
 
-### 4. **Submit Your Work**
+### 3. **Submit Your Work**
    - Once you’ve completed your code, use the following command to submit your work:
 
      ```bash
@@ -68,9 +57,8 @@ This repository provides the setup for implementing CS50’s automatic grading s
 
    - You may need to authorize `submit50` for the submission to go through.
 
-### 5. **Verify Submission**
-   - After submitting, you’ll receive a confirmation message indicating that your files have been successfully uploaded.
-
+### 4. **Verify Submission**
+   - After submitting, you’ll receive a confirmation message indicating that your files have been successfully uploaded. you can check the submissions at (https://submit.cs50.io/courses/)
 ---
 
 ## Example Slug
