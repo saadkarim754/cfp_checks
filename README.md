@@ -1,4 +1,4 @@
-# CS50 Assignment Submission System
+# Assignment Submission System
 
 This repository provides the setup for implementing CS50’s automatic grading system using `submit50` and `check50`. It includes step-by-step instructions for both instructors and students on how to use the system for assignment submission and grading.
 
