@@ -2,25 +2,6 @@
 
 This repository provides the setup for implementing CS50’s automatic grading system using `submit50` and `check50`. It includes step-by-step instructions for both instructors and students on how to use the system for assignment submission and grading.
 
----
-
-## Table of Contents
-
-- [Instructor Setup](#instructor-setup)
-  - [1. Create a Course on `submit50.cs50.io`](#1-create-a-course-on-submit50cs50io)
-  - [2. Define the Slug Format](#2-define-the-slug-format)
-  - [3. Set Up `.cs50.yaml`](#3-set-up-cs50yaml)
-  - [4. Write a Check for `check50`](#4-write-a-check-for-check50)
-  - [5. Test the Setup](#5-test-the-setup)
-- [Student Setup](#student-setup)
-  - [1. Set Up Access on `cs50.dev`](#1-set-up-access-on-cs50dev)
-  - [2. Clone the Repository](#2-clone-the-repository)
-  - [3. Write Your Code](#3-write-your-code)
-  - [4. Submit Your Work](#4-submit-your-work)
-  - [5. Verify Submission](#5-verify-submission)
-- [Example Slug](#example-slug)
-
----
 
 ## Instructor Setup
 
